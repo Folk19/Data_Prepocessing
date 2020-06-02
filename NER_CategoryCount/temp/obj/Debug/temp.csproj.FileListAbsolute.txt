@@ -1,0 +1,12 @@
+c:\users\shown\documents\visual studio 2013\Projects\temp\temp\bin\Debug\temp.exe.config
+c:\users\shown\documents\visual studio 2013\Projects\temp\temp\bin\Debug\temp.exe
+c:\users\shown\documents\visual studio 2013\Projects\temp\temp\bin\Debug\temp.pdb
+c:\users\shown\documents\visual studio 2013\Projects\temp\temp\obj\Debug\temp.csprojResolveAssemblyReference.cache
+c:\users\shown\documents\visual studio 2013\Projects\temp\temp\obj\Debug\temp.exe
+c:\users\shown\documents\visual studio 2013\Projects\temp\temp\obj\Debug\temp.pdb
+D:\C#\temp\temp\bin\Debug\temp.exe.config
+D:\C#\temp\temp\obj\Debug\temp.exe
+D:\C#\temp\temp\obj\Debug\temp.pdb
+D:\C#\temp\temp\bin\Debug\temp.exe
+D:\C#\temp\temp\bin\Debug\temp.pdb
+D:\C#\temp\temp\obj\Debug\temp.csprojResolveAssemblyReference.cache

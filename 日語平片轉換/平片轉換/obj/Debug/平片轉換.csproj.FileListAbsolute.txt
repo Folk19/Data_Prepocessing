@@ -1,0 +1,6 @@
+C:\Users\yuyanlo\Desktop\平片轉換\平片轉換\bin\Debug\平片轉換.exe.config
+C:\Users\yuyanlo\Desktop\平片轉換\平片轉換\obj\Debug\平片轉換.csprojResolveAssemblyReference.cache
+C:\Users\yuyanlo\Desktop\平片轉換\平片轉換\bin\Debug\平片轉換.exe
+C:\Users\yuyanlo\Desktop\平片轉換\平片轉換\bin\Debug\平片轉換.pdb
+C:\Users\yuyanlo\Desktop\平片轉換\平片轉換\obj\Debug\平片轉換.exe
+C:\Users\yuyanlo\Desktop\平片轉換\平片轉換\obj\Debug\平片轉換.pdb

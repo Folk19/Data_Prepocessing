@@ -1,0 +1,9 @@
+c:\users\shown\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\shown\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\shown\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\shown\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\shown\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\shown\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\C#\10_fold and f-score\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\C#\10_fold and f-score\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\C#\10_fold and f-score\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

@@ -1,0 +1,6 @@
+D:\C#\XML讀取\XML讀取\bin\Debug\XML讀取.exe.config
+D:\C#\XML讀取\XML讀取\bin\Debug\XML讀取.exe
+D:\C#\XML讀取\XML讀取\bin\Debug\XML讀取.pdb
+D:\C#\XML讀取\XML讀取\obj\Debug\XML讀取.csprojResolveAssemblyReference.cache
+D:\C#\XML讀取\XML讀取\obj\Debug\XML讀取.exe
+D:\C#\XML讀取\XML讀取\obj\Debug\XML讀取.pdb

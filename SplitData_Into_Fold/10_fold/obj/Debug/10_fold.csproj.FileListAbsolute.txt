@@ -1,0 +1,9 @@
+c:\users\shown\documents\visual studio 2013\Projects\10_fold\10_fold\bin\Debug\10_fold.exe.config
+c:\users\shown\documents\visual studio 2013\Projects\10_fold\10_fold\bin\Debug\10_fold.exe
+c:\users\shown\documents\visual studio 2013\Projects\10_fold\10_fold\bin\Debug\10_fold.pdb
+c:\users\shown\documents\visual studio 2013\Projects\10_fold\10_fold\obj\Debug\10_fold.csprojResolveAssemblyReference.cache
+c:\users\shown\documents\visual studio 2013\Projects\10_fold\10_fold\obj\Debug\10_fold.exe
+c:\users\shown\documents\visual studio 2013\Projects\10_fold\10_fold\obj\Debug\10_fold.pdb
+D:\C#\10_fold\10_fold\bin\Debug\10_fold.exe.config
+D:\C#\10_fold\10_fold\obj\Debug\10_fold.exe
+D:\C#\10_fold\10_fold\obj\Debug\10_fold.pdb

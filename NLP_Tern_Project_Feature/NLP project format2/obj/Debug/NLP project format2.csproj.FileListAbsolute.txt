@@ -1,0 +1,5 @@
+D:\C#\NLP project format2\NLP project format2\bin\Debug\NLP project format2.exe.config
+D:\C#\NLP project format2\NLP project format2\bin\Debug\NLP project format2.exe
+D:\C#\NLP project format2\NLP project format2\bin\Debug\NLP project format2.pdb
+D:\C#\NLP project format2\NLP project format2\obj\Debug\NLP project format2.exe
+D:\C#\NLP project format2\NLP project format2\obj\Debug\NLP project format2.pdb
