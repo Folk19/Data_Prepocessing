@@ -1,0 +1,69 @@
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\Resources\english.stop.txt
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\Resources\en-chunker.bin
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\Resources\en-parser-chunking.bin
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\Resources\en-pos-maxent.bin
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\Resources\en-sent.bin
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\Resources\en-token.bin
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\NLP.exe
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\NLP.pdb
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\IKVM.Runtime.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\LemmaSharp.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\LemmaSharpPrebuilt.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\LemmaSharpPrebuiltCompact.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\Lzma#.dll
+C:\Users\shown\Desktop\NLP\NLP\bin\Debug\opennlp.dll
+C:\Users\shown\Desktop\NLP\NLP\obj\x86\Debug\NLP_Project.csprojResolveAssemblyReference.cache
+C:\Users\shown\Desktop\NLP\NLP\obj\x86\Debug\NLP.exe
+C:\Users\shown\Desktop\NLP\NLP\obj\x86\Debug\NLP.pdb
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\obj\x86\Debug\NLP.exe
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\obj\x86\Debug\NLP.pdb
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\obj\x86\Debug\NLP_Project.csprojResolveAssemblyReference.cache
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\Resources\english.stop.txt
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\Resources\en-chunker.bin
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\Resources\en-parser-chunking.bin
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\Resources\en-pos-maxent.bin
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\Resources\en-sent.bin
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\Resources\en-token.bin
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\NLP.exe
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\NLP.pdb
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\IKVM.Runtime.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\LemmaSharp.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\LemmaSharpPrebuilt.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\LemmaSharpPrebuiltCompact.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\Lzma#.dll
+C:\Users\shown\Documents\Visual Studio 2013\Projects\NLP2\NLP\bin\Debug\opennlp.dll
+D:\C#\NLP2\NLP\obj\x86\Debug\NLP.exe
+D:\C#\NLP2\NLP\obj\x86\Debug\NLP.pdb
+D:\C#\NLP2\NLP\bin\Debug\Resources\english.stop.txt
+D:\C#\NLP2\NLP\bin\Debug\Resources\en-chunker.bin
+D:\C#\NLP2\NLP\bin\Debug\Resources\en-parser-chunking.bin
+D:\C#\NLP2\NLP\bin\Debug\Resources\en-pos-maxent.bin
+D:\C#\NLP2\NLP\bin\Debug\Resources\en-sent.bin
+D:\C#\NLP2\NLP\bin\Debug\Resources\en-token.bin
+D:\C#\NLP2\NLP\bin\Debug\NLP.exe
+D:\C#\NLP2\NLP\bin\Debug\NLP.pdb
+D:\C#\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\C#\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\C#\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\C#\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\C#\NLP2\NLP\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\C#\NLP2\NLP\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\C#\NLP2\NLP\bin\Debug\IKVM.Runtime.dll
+D:\C#\NLP2\NLP\bin\Debug\LemmaSharp.dll
+D:\C#\NLP2\NLP\bin\Debug\LemmaSharpPrebuilt.dll
+D:\C#\NLP2\NLP\bin\Debug\LemmaSharpPrebuiltCompact.dll
+D:\C#\NLP2\NLP\bin\Debug\Lzma#.dll
+D:\C#\NLP2\NLP\bin\Debug\opennlp.dll
+D:\C#\NLP2\NLP\obj\x86\Debug\NLP_Project.csprojResolveAssemblyReference.cache
